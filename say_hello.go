@@ -1,10 +1,10 @@
 package gomodulessayhello
 
 
-func sayHello() string{
+func SayHello() string{
 	return "Hello"
 }
 
-func sayNameHello(name string) string{
+func SayNameHello(name string) string{
 	return "Hello"+name
 }
